@@ -2,7 +2,7 @@
 // Update: 2020-04-27 07:13:49
 //
 
-const proxy = "SOCKS5 192.168.137.1:1080;";
+const proxy = "http 192.168.137.1:1080;";
 const direct = "DIRECT;";
 
 const hasOwnProperty = Object.hasOwnProperty;
